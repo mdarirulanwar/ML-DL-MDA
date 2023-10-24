@@ -8,4 +8,4 @@ Task 2 yakni klusterisasi dari "Random Point" menggunakan pemodelan kmeans denga
 
 Task 3 yakni deep learning untuk MNIST Handwritten menggunakan neural network architecture. Pada task 3 ini saya menggunakan neural network MPLS.
 
-Dan pada task bonus yakni berisikan task 3 dengan perbandingan 
+Dan pada task bonus yakni berisikan task 3 dengan perbandingan Loss Function yang dipakai
